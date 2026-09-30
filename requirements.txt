@@ -8,6 +8,7 @@ langchain-core==1.6.6
 langchain-text-splitters==1.1.2
 sentence-transformers==6.1.0
 torch==2.14.0
+torchvision==0.29.0
 transformers==5.17.0
 scikit-learn==1.9.1
 pillow==12.3.0
